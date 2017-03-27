@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RecipeHub</string>
+    <string name="recipe_name">Macarrão</string>
+    <string name="ingredients">Ingredientes:</string>
+    <string name="ingredients_list">- Macarrão 7 min\n-Extrato de tomate\n-Sal\n-Água</string>
+    <string name="tempo">Tempo de preparo:</string>
+    <string name="tempo_receita">10 min</string>
+    <string name="directions">Modo de preparo:</string>
+    <string name="directions_list">-Ferva a água\n-Ponha sal\n-Cozinhe o macarrão pelo tempo indicado na embalagem\nbla\nbla\nbla\nbla\nbla\nbla\nbla</string>
+    <string name="title_activity_menu_lateral">MenuLateral</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
